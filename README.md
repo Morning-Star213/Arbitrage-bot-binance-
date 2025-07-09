@@ -33,6 +33,3 @@ All trades are in one of the two following forms:
 ## Disclaimer:  
 Use this bot at your own risk.  I take no responsibility for any losses you may incur as a result of this bot.  Losses and gains will largely be determined by response time, which will take into accound how fast your machine opperates and how close you are to 
 binance's API servers. 
-
-## Acknowledgements
-Some of the code in binance.py is forked from @toshima's binance API wrapper: https://github.com/toshima/binance
